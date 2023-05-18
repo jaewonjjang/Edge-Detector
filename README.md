@@ -3,8 +3,8 @@
 #### Canny Edge Detector
 
 #### original image
-  ![image](https://github.com/jaewonjjang/Edge-Detector/assets/92264609/d845c4ae-f4ae-4cf0-b974-f28cabde027e)
-  ![image](https://github.com/jaewonjjang/Edge-Detector/assets/92264609/cc553d79-7606-4eaf-991c-09c896d4952a)
+  <img width ="300" height="300" src = "https://github.com/jaewonjjang/Edge-Detector/assets/92264609/d845c4ae-f4ae-4cf0-b974-f28cabde027e">
+  <img width ="300" height="300" src = "https://github.com/jaewonjjang/Edge-Detector/assets/92264609/cc553d79-7606-4eaf-991c-09c896d4952a">
 
 
 #### Edge detection & Moore Boundary Tracing(맹구 이미지 사용)
